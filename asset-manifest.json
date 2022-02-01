@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phverbs/static/css/main.95b1f255.css",
+    "main.js": "/phverbs/static/js/main.664d7a8b.js",
+    "static/js/787.b975c37d.chunk.js": "/phverbs/static/js/787.b975c37d.chunk.js",
+    "index.html": "/phverbs/index.html",
+    "main.95b1f255.css.map": "/phverbs/static/css/main.95b1f255.css.map",
+    "main.664d7a8b.js.map": "/phverbs/static/js/main.664d7a8b.js.map",
+    "787.b975c37d.chunk.js.map": "/phverbs/static/js/787.b975c37d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b1f255.css",
+    "static/js/main.664d7a8b.js"
+  ]
+}
